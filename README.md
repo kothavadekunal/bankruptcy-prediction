@@ -21,7 +21,7 @@
 * This means the model is good at predicting companies tending towards Bankruptcy.
 * However, this comes at a cost of low "precision-score" which means high number of false positives.
 
-### Refer "Bankruptcy Prediction.ipynb" & "Bankruptcy Prediction.pptx" for details.
+### Refer [Bankruptcy Prediction.ipynb](/Bankruptcy Prediction.ipynb) & [Bankruptcy Prediction.pptx](/Bankruptcy Prediction.pptx) for details.
 
 
 
